@@ -10,8 +10,7 @@ Welcome to my GitHub! I'm a passionate data analyst with an engineering backgrou
 
 - 🧠 Self-driven learner in analytics and business intelligence  
 - 📊 Hands-on experience in Power BI, Excel, SQL, and Python for building end-to-end data solutions  
-- 🧱 Strong foundation in data modeling, ETL processes, and statistical analysis  
-- 🤖 Enthusiastic about using AI visuals in Power BI like Key Influencers and Decomposition Tree  
+- 🧱 Strong foundation in data modeling, ETL processes, and statistical analysis   
 - 🗂️ Enjoy delivering insights that optimize operations and support decision-making  
 
 ---
